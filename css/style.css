@@ -1,0 +1,8 @@
+/* Importando o que eu escrevi no outro arquivo */
+@import "./global.css";
+@import "./header.css";
+@import "./introducao.css";
+@import "./professional.css";
+@import "./educational.css";
+@import "./project.css";
+@import "./footer.css";
